@@ -1,5 +1,10 @@
 <h1>Hi, I'm Mohamed! <br/><a href="https://https://github.com/MBarrie42">I.T Professional</a>, <a href="https://www.linkedin.com/in/mohamedjbarrie/">Cybersecurity Enthusiast</a></h1>
 
+<h2>Professional Portfolio:</h2>
+
+- <b>[Career Documents](https://drive.google.com/drive/folders/1RoH1_OYFd7vhM_l7PtodjiV-ZNC0t8kO?usp=sharing)</b>
+- <b>[Cybersecurity Portfolio](https://drive.google.com/drive/folders/1ge7pAmImUuMXAX8w4XkibOSWowX_m4VY?usp=sharing)</b>
+    
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Honeynet</b>
